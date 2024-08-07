@@ -9,7 +9,7 @@ Email para contato: [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br).
 Os planos de ensino estão divididos por disciplinas e cursos:
 
 ## Análise Numérica
-  - [Plano de Ensino](materiais/Ementa_AnaliseNumerica.pdf)
+  - [Ementa](materiais/Ementa_AnaliseNumerica.pdf)
 
 # Calendário
 Atenção ao checar o calendário. Verifique se o calendário corresonde a sua disciplina e curso.
