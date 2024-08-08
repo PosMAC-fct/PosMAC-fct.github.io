@@ -16,12 +16,23 @@ Atenção ao checar o calendário. Verifique se o calendário corresonde a sua d
 ## Análise Numérica
 - [Calendário](https://docs.google.com/spreadsheets/d/1T_2eNy1mW-o7U_b4SCOwGr2zz3OBzprhR-U83gi-5W8/edit?usp=sharing)
 
-# Slides
+# Slides e Notas de Aula
 Arquivos dos slides usados em aula:
 
 ## Análise Numérica
 - [AN01 - Solução de equações não-lineares](materiais/AN01_EquacoesNaoLineares.pdf)
-
+- [AN01 - Método da Bissecção](materiais/AN01_MetBisseccao_EquacoesNaoLineares.pdf)
+- [AN01 - Método de Newton](materiais/AN01_MetNewton_EquacoesNaoLineares.pdf)
+- [AN01 - Método da Secante](materiais/AN01_MetSecante_EquacoesNaoLineares.pdf)
+- [AN02 - Métodos Diretos para Sistemas Lineares](materiais/AN02_SistemasLineares.pdf)
+- [AN02 - Mal Condicionamento](materiais/AN02_MalCondicionamento_SistemasLineares.pdf)
+- [AN03 - Método de Newton](materiais/AN03_MetNewton_SistemasNaoLineares.pdf)
+- [AN04 - Interpolação Polinomial](materiais/AN04_InterpolacaoPolinomial.pdf)
+- [AN04 - Fórmula de Lagrange](materiais/AN04_Lagrange_InterpolacaoPolinomial.pdf)
+- [AN05 - Interpolação de Hermite](materiais/AN05_Hermite_Splines.pdf)
+- [AN05 - Spline Cúbica](materiais/AN05_Cubica_Splines.pdf)
+- [AN06 - Mínimos Quadrados](materiais/AN06_MinimosQuadrados.pdf)
+- [AN06 - Caso Discreto](materiais/AN06_Discreto_MinimosQuadrados.pdf)
 
 # Listas de Exercícios
 Arquivos das listas de exercícios:
