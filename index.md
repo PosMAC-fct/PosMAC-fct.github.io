@@ -25,7 +25,7 @@ Arquivos dos slides usados em aula:
 - [AN01 - Método de Newton](materiais/AN01_MetNewton_EquacoesNaoLineares.pdf)
 - [AN01 - Método da Secante](materiais/AN01_MetSecante_EquacoesNaoLineares.pdf)
 - [AN02 - Métodos Diretos para Sistemas Lineares](materiais/AN02_SistemasLineares.pdf)
-- [AN02 - Mal Condicionamento](materiais/AN02_MalCondicionamento_SistemasLineares.pdf)
+- [AN02 - Mal Condicionamento](materiais/AN02_MalCondicinoamento_SistemasLineares.pdf)
 - [AN03 - Método de Newton](materiais/AN03_MetNewton_SistemasNaoLineares.pdf)
 - [AN04 - Interpolação Polinomial](materiais/AN04_InterpolacaoPolinomial.pdf)
 - [AN04 - Fórmula de Lagrange](materiais/AN04_Lagrange_InterpolacaoPolinomial.pdf)
