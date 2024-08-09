@@ -37,6 +37,7 @@ Arquivos dos slides usados em aula:
 - [AN06 - Caso Discreto](materiais/AN06_Discreto_MinimosQuadrados.pdf)
 
 # Trabalhos
+- [Equipes do Trabalho ODE](https://docs.google.com/document/d/1qqqq_jVMGm93FVk-QBS90vjdaU8i-4ffdruSu3YM7lQ/edit?usp=sharing)
 - [ODE - Trabalho 1](materiais/TrabalhoODE1.pdf)
 - [ODE - Trabalho 2](materiais/TrabalhoODE2.pdf)
 
