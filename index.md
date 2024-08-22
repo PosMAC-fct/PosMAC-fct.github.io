@@ -45,7 +45,7 @@ Arquivos dos slides usados em aula:
 Arquivos das listas de exercícios:
 
 ## Análise Numérica
-- [AN01 - Solução de Equações Não-Lineares](materiais/CNA01_Lista_DecomposicoesMatriciais.pdf)
+- [AN01 - Solução de Equações Não-Lineares](materiais/Lista1_EquacoesNaoLineares.pdf)
 
 
 --- -->
