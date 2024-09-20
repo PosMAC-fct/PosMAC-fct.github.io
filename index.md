@@ -50,7 +50,8 @@ Arquivos das listas de exercícios:
 
 ## Análise Numérica
 - [AN01 - Solução de Equações Não-Lineares](materiais/Lista1_EquacoesNaoLineares.pdf)
-- [AN02 - Decomposição LU e Eliminação de Gauss](materiais/AN02_Lista_LU_EliminacaoGauss.pdf)                                                           
+- [AN02 - Decomposição LU e Eliminação de Gauss](materiais/AN02_Lista_LU_EliminacaoGauss.pdf)
+- [AN03 - Solução de Sistemas de Equações Não Lineares](materiais/Lista_SistemaEquacoesNaoLineares.pdf)                                     
 
 
 --- -->
