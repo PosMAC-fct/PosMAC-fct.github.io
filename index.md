@@ -36,9 +36,11 @@ Arquivos dos slides usados em aula:
 - [AN06 - Mínimos Quadrados](materiais/AN06_MinimosQuadrados.pdf)
 - [AN06 - Caso Discreto](materiais/AN06_Discreto_MinimosQuadrados.pdf)
 
-%## Programas feitos em aula
-%- [Eliminação Gaussiana](materiais/EliminacaoGauss.m)
-%- [Método de Newton para sistemas não-lineares](materiais/Newton.m)
+<!-- #
+## Programas feitos em aula
+- [Eliminação Gaussiana](materiais/EliminacaoGauss.m)
+- [Método de Newton para sistemas não-lineares](materiais/Newton.m)
+-->
 
 # Trabalhos
 - [Equipes do Trabalho ODE](https://docs.google.com/document/d/1qqqq_jVMGm93FVk-QBS90vjdaU8i-4ffdruSu3YM7lQ/edit?usp=sharing)
