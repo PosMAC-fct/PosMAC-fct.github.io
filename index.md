@@ -35,6 +35,7 @@ Arquivos dos slides usados em aula:
 - [AN05 - Spline Cúbica](materiais/AN05_Cubica_Splines.pdf)
 - [AN06 - Mínimos Quadrados](materiais/AN06_MinimosQuadrados.pdf)
 - [AN06 - Caso Discreto](materiais/AN06_Discreto_MinimosQuadrados.pdf)
+- [AN06 - MMQ](materiais/AN06_MMQ.pdf)
 
 <!-- #
 ## Programas feitos em aula
