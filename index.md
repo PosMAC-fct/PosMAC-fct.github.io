@@ -55,7 +55,8 @@ Arquivos das listas de exercícios:
 - [AN01 - Solução de Equações Não-Lineares](materiais/Lista1_EquacoesNaoLineares.pdf)
 - [AN02 - Decomposição LU e Eliminação de Gauss](materiais/AN02_Lista_LU_EliminacaoGauss.pdf)
 - [AN03 - Solução de Sistemas de Equações Não Lineares](materiais/Lista_SistemaEquacoesNaoLineares.pdf)
-- [AN04 - Interpolação polinomial](materiais/AN04_Lista_Interpolacao.pdf)                                     
+- [AN04 - Interpolação polinomial](materiais/AN04_Lista_Interpolacao.pdf)
+- [AN05 - Método dos Mínimos Quadrados](materiais/Lista_MMQ.pdf)   
 
 
 --- -->
