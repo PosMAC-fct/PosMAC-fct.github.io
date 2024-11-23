@@ -36,6 +36,7 @@ Arquivos dos slides usados em aula:
 - [AN06 - Mínimos Quadrados](materiais/AN06_MinimosQuadrados.pdf)
 - [AN06 - Caso Discreto](materiais/AN06_Discreto_MinimosQuadrados.pdf)
 - [AN06 - MMQ](materiais/AN06_MMQ.pdf)
+- [AN07 - Integração Numérica](materiais/IntegracaoNumerica.pdf)
 
 <!-- #
 ## Programas feitos em aula
