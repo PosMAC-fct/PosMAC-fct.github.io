@@ -17,6 +17,7 @@ Atenção ao checar o calendário. Verifique se o calendário corresonde a sua d
 ## Análise Numérica
 - [Calendário da Disciplina](https://docs.google.com/spreadsheets/d/1NTl8ZsmrNm0tB4MVtG2HEA2AKBPTyXBQxG4NWRvJY64/edit?usp=sharing)
 - [Lista de Presença](https://docs.google.com/spreadsheets/d/1XK1wJJJfBOAA-Ze4jX0TyvBCc6jnNshX_oiRh0yavUU/edit?usp=sharing)
+- [Notas da Turma](https://docs.google.com/spreadsheets/d/1Dgpx544TN7xhSiVyGNH59_FwqjfXd5G7anY6YC8uLzc/edit?usp=sharing)
 
 # Slides e Notas de Aula
 Arquivos dos slides usados em aula:
