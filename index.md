@@ -55,6 +55,7 @@ Arquivos das listas de exercícios:
 
 ## Análise Numérica
 - [AN01 - Solução de Equações Não-Lineares](materiais/Lista1_EquacoesNaoLineares.pdf)
+- [AN01 - Solução de Equações Não-Lineares (Atualizada)](materiais/AN01_Lista_EqNaoLinear.pdf)
 - [AN02 - Decomposição LU e Eliminação de Gauss](materiais/AN02_Lista_LU_EliminacaoGauss.pdf)
 - [AN03 - Solução de Sistemas de Equações Não Lineares](materiais/Lista_SistemaEquacoesNaoLineares.pdf)
 - [AN04 - Interpolação polinomial](materiais/AN04_Lista_Interpolacao.pdf)
@@ -64,3 +65,4 @@ Arquivos das listas de exercícios:
 
 --- -->
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
+
