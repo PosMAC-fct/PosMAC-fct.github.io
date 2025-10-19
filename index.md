@@ -61,7 +61,8 @@ Arquivos das listas de exercícios:
 - [AN03 - Solução de Sistemas de Equações Não Lineares (com solução dos exercícios 4.7 e 4.8)](materiais/Lista_SistemaEquacoesNaoLineares.pdf)
 - [AN04 - Interpolação polinomial](materiais/AN04_Lista_Interpolacao.pdf)
 - [AN06 - Método dos Mínimos Quadrados](materiais/Lista_MMQ.pdf)
-- [AN07 - Integração Numérica](materiais/Lista_IntegracaoNumerica.pdf)   
+- [AN07 - Integração Numérica](materiais/Lista_IntegracaoNumerica.pdf)
+- [AN07 - Atividade complementar-Newton-Cotes](materiais/Exercicios_Integracao_Newton_Cotes.pdf)   
 
 # Atividades Entregues ao longo da disciplina
 Planilha com as notas das atividades entregues ao longo da disciplina:
@@ -71,6 +72,7 @@ Planilha com as notas das atividades entregues ao longo da disciplina:
   
 --- -->
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
+
 
 
 
