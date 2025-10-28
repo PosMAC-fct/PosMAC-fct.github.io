@@ -6,7 +6,7 @@ color:
   header: "#000"
   gradient_left: "#e53935"
   gradient_right: "#f57c00"
-logo: /assets/images/mario.png
+logo_url: https://posmac-fct.github.io/assets/images/mario.png
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 buttons:
   zip_url: https://github.com/tuur29/pages-themes-cayman
@@ -14,5 +14,6 @@ buttons:
   zip_hide: false
   tar_hide: true
   github_hide: true
+
 
 
