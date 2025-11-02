@@ -38,6 +38,7 @@ Arquivos dos slides usados em aula:
 - [AN06 - Caso Discreto](materiais/AN06_Discreto_MinimosQuadrados.pdf)
 - [AN06 - MMQ](materiais/AN06_MMQ.pdf)
 - [AN07 - Integração Numérica](materiais/IntegracaoNumerica.pdf)
+- [AN08 - Problema de Valor Inicial](materiais/AN_ProblemaDeValorInicial.pdf)
 
 <!-- #
 ## Programas feitos em aula
@@ -72,6 +73,7 @@ Planilha com as notas das atividades entregues ao longo da disciplina:
   
 --- -->
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
+
 
 
 
