@@ -12,12 +12,18 @@ Os planos de ensino estão divididos por disciplinas e cursos:
 - [Ementa](materiais/Ementa_AnaliseNumerica.pdf)
 - [Plano de Ensino](materiais/PlanoEnsino_AnaliseNumerica.pdf)
 
+## Introdução à Mecânica dos Fluidos Computacional
+- [Plano de Ensino](materiais/PlanoEnsino_Introducao_a_Mecanica_dos_Fluidos.pdf)
+
 # Calendário
 Atenção ao checar o calendário. Verifique se o calendário corresonde a sua disciplina e curso.
 ## Análise Numérica
 - [Calendário da Disciplina](https://docs.google.com/spreadsheets/d/1NTl8ZsmrNm0tB4MVtG2HEA2AKBPTyXBQxG4NWRvJY64/edit?usp=sharing)
 - [Lista de Presença](https://docs.google.com/spreadsheets/d/1XK1wJJJfBOAA-Ze4jX0TyvBCc6jnNshX_oiRh0yavUU/edit?usp=sharing)
 - [Notas da Turma](https://docs.google.com/spreadsheets/d/1Dgpx544TN7xhSiVyGNH59_FwqjfXd5G7anY6YC8uLzc/edit?usp=sharing)
+
+## Introdução à Mecânica dos Fluidos Computacional
+- [Calendário da Disciplina](https://docs.google.com/spreadsheets/d/18cazbfaG-2IK_MjLFuKXWkjbnZWzde3iRFhG4unj8v4/edit?usp=sharing)
 
 # Slides e Notas de Aula
 Arquivos dos slides usados em aula:
@@ -40,6 +46,9 @@ Arquivos dos slides usados em aula:
 - [AN07 - Integração Numérica](materiais/IntegracaoNumerica.pdf)
 - [AN08 - Problema de Valor Inicial](materiais/AN_ProblemaDeValorInicial.pdf)
 - [AN09 - Problema de Valor de Contorno](materiais/AN_PVC.pdf)
+
+## Introdução à Mecânica dos Fluidos Computacional
+- [CFD01 - Equações de Navier-Stokes](materiais/NavierStokes.pdf)
 
 <!-- #
 ## Programas feitos em aula
