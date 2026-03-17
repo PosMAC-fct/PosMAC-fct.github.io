@@ -24,6 +24,7 @@ Atenção ao checar o calendário. Verifique se o calendário corresonde a sua d
 
 ## Introdução à Mecânica dos Fluidos Computacional
 - [Calendário da Disciplina](https://docs.google.com/spreadsheets/d/18cazbfaG-2IK_MjLFuKXWkjbnZWzde3iRFhG4unj8v4/edit?usp=sharing)
+- [Calendário do Pós-MAC](https://www.fct.unesp.br/Home/Pos_Graduacao/MatematicaAplicadaeComputacional/copia-de-modelo-para-calendario-escolar-v.3---divulgacao-2.pdf)
 
 # Slides e Notas de Aula
 Arquivos dos slides usados em aula:
